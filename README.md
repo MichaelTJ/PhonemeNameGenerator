@@ -27,4 +27,5 @@ Usage:
     NameGen(wantedPhonemes)
     
 Output:
+
     Urboe : Up Rail Boy lOdgE
