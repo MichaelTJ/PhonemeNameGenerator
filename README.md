@@ -1,4 +1,4 @@
-# randomNameGenerator
+# phonemeNameGenerator
 A name generator based off the pronunciation of words (phonetics). 
 
 The 44 phonemes have been categorised completely subjectively by sharpness (t=10, m=1), roughness/ugliness (g=9,f=1), and soundlocation(1=front of mouth, 10=back of throat). 
