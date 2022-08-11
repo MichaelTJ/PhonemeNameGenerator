@@ -11,9 +11,6 @@ You get to choose how many phonemes, their attributes and the weighting of their
 
 Usage:
     
-    initGraphemes()
-    initPhenomes() 
-    
     #Create a list of wanted phonemes. These 4 will make up a word
     wantedPhonemes = []
     

@@ -616,9 +616,10 @@ def wordFromGraphemes(wordGraphemes):
 def r():
     return (randint(1,11), randint(1,11))
 
+initGraphemes()
+initPhenomes()
+
 if __name__ == '__main__':
-    initGraphemes()
-    initPhenomes()
 
     for i in range(10):
         #freqSharpNameBuilder()
